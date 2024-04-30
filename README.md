@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityansr&label=Profile%20views&color=0e75b6&style=flat" alt="adityansr" /> </p>
 
-- 🔭 I’m currently Studying at **GPTC , Exukhone**
+- 🔭 I’m currently Studying at : **GPTC , Ezukhone**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning : **Java**
 
-- 📝 I get most of my resources from [https://www.youtube.com/](https://www.youtube.com/)
+- 📝 I get most of my resources from : [https://www.youtube.com/](https://www.youtube.com/)
 
-- 📫 How to reach me **contact.adityansr@gmail.com**
+- 📫 How to reach me : **contact.adityansr@gmail.com**
 
-- ⚡ Fun fact **Doing Good**
+- ⚡ Fun fact : **Doing Good**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
