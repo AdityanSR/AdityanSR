@@ -1,3 +1,4 @@
+![logo](https://github.com/AdityanSR/AdityanSR/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Adityan S R</h1>
 <h3 align="center">A passionate Student from India</h3>
 
