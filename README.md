@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Adityan S R</h1>
 <h3 align="center">A passionate Student from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"><br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityansr&label=Profile%20views&color=0e75b6&style=flat" alt="adityansr" /> </p>
+
 
 - 🔭 I’m currently Studying at : **GPTC , Ezukhone**
 
